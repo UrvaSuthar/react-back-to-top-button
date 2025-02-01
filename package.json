@@ -1,6 +1,6 @@
 {
   "name": "react-go-to-top-customisable-button",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "type": "module",
   "description": "A customizable 'Back to Top' button for React apps with smooth animations and custom styling.",
   "main": "dist/index.js",
