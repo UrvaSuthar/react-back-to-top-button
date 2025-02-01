@@ -1,0 +1,43 @@
+{
+  "name": "react-back-to-top-button",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "A customizable 'Back to Top' button for React apps with smooth animations and custom styling.",
+  "main": "dist/index.js",
+  "module": "dist/index.es.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "rollup -c",
+    "prepare": "npm run build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/react-back-to-top-button"
+  },
+  "keywords": [
+    "react",
+    "back-to-top",
+    "scroll-button",
+    "ui-component"
+  ],
+  "author": "Urva Suthar",
+  "license": "MIT",
+  "peerDependencies": {
+    "react": "^17 || ^18",
+    "react-dom": "^17 || ^18"
+  },
+  "dependencies": {
+    "react": "^17 || ^18",
+    "react-dom": "^17 || ^18"
+  },
+  "devDependencies": {
+    "@rollup/plugin-commonjs": "^28.0.2",
+    "@rollup/plugin-node-resolve": "^16.0.0",
+    "@rollup/plugin-typescript": "^12.1.2",
+    "@types/react": "^19.0.8",
+    "rollup": "^4.34.0",
+    "rollup-plugin-peer-deps-external": "^2.2.4",
+    "tslib": "^2.8.1",
+    "typescript": "^5.7.3"
+  }
+}
