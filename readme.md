@@ -185,7 +185,7 @@ This package follows [Semantic Versioning (SemVer)](https://semver.org/). To pub
 
 ## Contributing
 
-Contributions are welcome! Please review our [CONTRIBUTING.md](./CONTRIBUTING.md) for guidelines on how to contribute, report issues, or submit pull requests. When contributing:
+Contributions are welcome! When contributing:
 
 - Follow our coding style and linting rules.
 - Write tests for any new features or bug fixes.
