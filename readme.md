@@ -193,11 +193,6 @@ Contributions are welcome! Please review our [CONTRIBUTING.md](./CONTRIBUTING.md
 
 ---
 
-## License
-
-This project is licensed under the [MIT License](./LICENSE).
-
----
 
 ## FAQ
 
@@ -210,13 +205,7 @@ A: It supports React versions 17 and 18 as peer dependencies.
 **Q: Is this package tree-shakeable?**  
 A: Yes! Written in ES6 module format, unused code can be removed by modern bundlers.
 
----
-
-## Changelog
-
-Please refer to the [CHANGELOG.md](./CHANGELOG.md) for a complete history of changes and releases.
-
----
+----
 
 ## Acknowledgments
 
